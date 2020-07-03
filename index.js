@@ -1,3 +1,8 @@
 'use strict';
 
-const arr = [3, 4, 1, 2, 7].sort();
+const obj = {
+    js: 'test',
+    jq: 'hello',
+    css: 'world',
+};
+const arr = Object.keys(obj);
