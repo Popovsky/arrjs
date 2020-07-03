@@ -1,4 +1,4 @@
 'use strict';
 
 const arr = ['js', 'css', 'jq'];
-alert(arr.shift());
+alert(arr.pop());
