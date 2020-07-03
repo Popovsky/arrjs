@@ -1,4 +1,4 @@
 'use strict';
 
-const arr1 = [1, 2, 3];
-const arr2 = arr1.reverse();
+const arr = [1, 2, 3];
+arr.push(4, 5, 6);
