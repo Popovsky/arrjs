@@ -1,4 +1,4 @@
 'use strict';
 
 const arr = [1, 2, 3, 4, 5];
-const newArr = arr.splice(1, 3);
+arr.splice(3, 0, 'a', 'b', 'c');
